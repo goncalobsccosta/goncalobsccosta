@@ -1,4 +1,4 @@
-<p align="left">
+<p align="left" display="inline-block">
   <img height="auto" src="https://github-readme-stats.vercel.app/api?username=goncalobsccosta&show_icons=true&theme=dark&bg_color=00000000&count_private=true&hide_border=true" alt="" />
   <!--<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalobsccosta&layout=compact&theme=dark&lang_count=10" alt=""/>-->
   <picture>
